@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hazybits.Twain.Core", "Hazybits.Twain.Core\Hazybits.Twain.Core.csproj", "{0B80C0AF-4E5A-422D-BFC4-60933A3AC506}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hazybits.Twain.Tester", "Hazybits.Twain.Tester\Hazybits.Twain.Tester.csproj", "{1DFACC5E-604D-47D9-8EB3-A75CA7411EB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B80C0AF-4E5A-422D-BFC4-60933A3AC506}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B80C0AF-4E5A-422D-BFC4-60933A3AC506}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B80C0AF-4E5A-422D-BFC4-60933A3AC506}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B80C0AF-4E5A-422D-BFC4-60933A3AC506}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DFACC5E-604D-47D9-8EB3-A75CA7411EB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DFACC5E-604D-47D9-8EB3-A75CA7411EB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DFACC5E-604D-47D9-8EB3-A75CA7411EB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DFACC5E-604D-47D9-8EB3-A75CA7411EB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
